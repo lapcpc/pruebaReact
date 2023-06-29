@@ -1,0 +1,14 @@
+{
+    "enero":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "febrero":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "marzo":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "abril":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "mayo":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "junio":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "julio":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "agosto":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "sept":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "octubre":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "noviembre":{"ingresos": 0, "gastos":0, "movimientos":[] },
+    "diciembre":{"ingresos": 0, "gastos":0, "movimientos":[] }
+}

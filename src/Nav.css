@@ -1,0 +1,60 @@
+.menu{
+    width: 100vw;
+    overflow: scroll;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    background: #4a65a3;
+    padding: 10px;
+}
+
+
+.menu::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+}
+
+.menu > a{
+    text-decoration: none;
+    color: white;
+}
+
+.boton {
+    position: fixed;
+    bottom: 5vh;
+    z-index: 5;
+}
+.modno {
+    display: none;
+}
+ .modi {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    z-index: 15;
+    background-color: rgba(100, 100, 100, .5);
+
+ }
+ .modi2 {
+    position: fixed;
+    width: 25vw;
+    height: 55vh;
+    top: 25%;
+    left: 40vw;
+    z-index: 15;
+    background-color: white;
+
+ }
+ @media (max-width: 1025px) {
+    .modi2 {
+     width: 35vw;
+     left:30vw;
+     height: 60vh;
+    }
+  }
+ @media (max-width: 600px) {
+    .modi2 {
+     width: 100vw;
+     left:0;
+    }
+  }
+  
