@@ -9,7 +9,7 @@ export default function Nav({cmes}) {
     
   return (
    
-<div id="nav" className="menu">
+<div id="nav" className="menu rounded-bottom">
   
     <a  onClick={()=>{ goNav(0); setlight(1); cmes(1) }} className={`p-4 ${light == 1 ? "h4" : "h6"}`} aria-current="page" href="#">Enero</a>
   
